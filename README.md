@@ -39,6 +39,7 @@ The "src" folder contains a set of sources. Download each folder to a computer w
 - epd2in13b (e-Paper) *1
 
 *1 このライブラリはArduino IDEではインストールできません。GitHubからダウンロードして追加する必要があります。その際の手順は上記ブログURLにて説明しています。
+
 This library cannot be installed with the Arduino IDE. You need to download it from GitHub and add it. The procedure for doing so is explained in the blog URL above.
 
 ### 3.Other
