@@ -15,7 +15,7 @@ For details, please check the following blog.
 https://karakuri-musha.com/inside-technology/arduino-raspberrypi-picow-epaper01/
 
 ## Src File
-"src"フォルダにソース一式が入っています。Arduino IDEをインストールしたパソコンにフォルダごとダウンロードして、「RaspberryPiPico_W_epaper.ino」を開いてください。
+"src"フォルダにソース一式が入っています。Arduino IDEをインストールしたパソコンにフォルダごとダウンロードして、「RaspberryPi_Pico_W_epaper.ino」を開いてください。
 
 The "src" folder contains a set of sources. Download each folder to a computer with Arduino IDE installed, and open "RaspberryPiPico_W_epaper.ino".
 
