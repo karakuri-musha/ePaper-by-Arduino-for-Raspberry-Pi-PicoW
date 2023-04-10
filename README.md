@@ -33,7 +33,7 @@ The "src" folder contains a set of sources. Download each folder to a computer w
 - [Name] Raspberry Pi Pico/RP2040
 - [BoardManager URL] https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
 
-### 4.library
+### 4.Additional library
 - ArduinoJson
 - Time By Michael Margolis　（1.6.1）
 - epd2in13b (e-Paper) *1
